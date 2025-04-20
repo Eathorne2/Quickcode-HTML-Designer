@@ -1,0 +1,98 @@
+<style type="text/css">
+		
+	.list-card-1{
+		vertical-align: top;
+		color: #000000FF;
+		width:100%;
+		background-color:#FFFFFFFF;
+		max-width:600px;
+		margin:auto;
+		margin-top:20px;
+		margin-bottom:20px;
+		box-shadow:5px 5px 20px #00000067;
+		display:flex;
+		flex-wrap:wrap
+	}
+	.list-number-container-1{
+
+		color: #000000FF;
+		width: 100px;
+		height:100px;
+		flex:1.1;
+		display:flex
+	}
+	.list-details-1{
+
+		color: #000000FF;
+		width: 100px;
+		padding:10px;
+		background-color:#FFFFFFFF;
+		flex:3;
+		min-width:300px
+	}
+	.list-step-1{
+
+		padding: 5px;
+		color:#f57f1e;
+		font-weight:bold
+	}
+	.list-desc-1{
+
+		padding: 5px;
+		font-size:14px
+	}
+	.list-number-holder-1{
+
+		color: #000000FF;
+		width:148px;
+		height:100px;
+		padding:10px;
+		background-color:#f57f1e;
+		border-top-right-radius:50px;
+		border-bottom-right-radius:50px;
+		display:flex;
+		justify-content:space-between;
+		align-items:center;
+		box-shadow:inset 5px 5px 10px #00000088;
+		white-space:nowrap;
+	}
+	.list-icon-holder-1{
+
+		color:#F57F1EFF;
+		width:60px;
+		height:60px;
+		padding:10px;
+		background-color:#FFFFFFFF;
+		border-radius:50%;
+		box-shadow:0px 0px 10px #00000068;
+		display:flex;
+		justify-content:center;
+		align-items:center
+	}
+	.list-number-1{
+
+		padding-left: 10px;
+		padding-right: 10px;
+		color:#FFFFFFFF;
+		font-size: 34px;
+	}
+	.list-card-icon-1{
+		font-size: 30px;
+	}
+	
+</style>
+<div handle="true" class="list-card-1" >
+	<div handle="true" class="list-number-container-1" >
+		<div class="list-number-holder-1" >
+			<h1 editable="true" class="list-number-1" >01</h1>
+			<div class="list-icon-holder-1" >
+				<i class="bi bi-bag-heart list-card-icon-1"  >
+				</i>
+			</div>
+		</div>
+	</div>
+	<div handle="true" class="list-details-1" >
+		<div editable="true" class="list-step-1" >Step One</div>
+		<div editable="true" class="list-desc-1" >Lorem Ipsum is simply dummy text of the printing and typesetting industry</div>
+	</div>
+</div>

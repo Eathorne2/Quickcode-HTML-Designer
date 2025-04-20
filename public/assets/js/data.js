@@ -1,0 +1,11 @@
+
+const DATA = 
+{
+	ITEM_COUNT: 0,
+	GROUP_COUNT: 0,
+	CURRENT_STYLES: {},
+	CURRENT_STYLES_NAMES: {},
+	CURRENT_MODE: 'monitor',
+	ITEMS: {},
+	DIRTY_DATA: true,
+}

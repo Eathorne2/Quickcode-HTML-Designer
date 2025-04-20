@@ -1,0 +1,11 @@
+<section style="width: 100%; padding-top: 10px; padding-bottom: 10px; background-color: rgb(239, 239, 239);" id="item_0" vw=""><div style="display: flex; flex-wrap: wrap; margin: auto; max-width: 1000px;" id="item_1">
+	<div style="flex: 1 1 0%; min-width: 300px; min-height: 200px; background-color: rgb(255, 255, 255); vertical-align: top; padding: 10px; text-align: center; color: rgb(84, 84, 84);" id="item_2"><img ondragstart="return false" src="images/segment_images/people/beautiful-sincere-happy-girl-smiling-laughing_176420-9693.jpg" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover; margin: 20px;" id="item_4"><h1 style="padding-left: 10px; padding-right: 10px; font-size: 40px;" id="item_5" editable="true">Anne Thunder<br></h1><div style="padding: 5px;" id="item_6" editable="true">I'm an experienced web designer<br></div></div>
+	<div style="flex: 1 1 0%; min-width: 300px; min-height: 200px; background-color: rgb(255, 126, 38); vertical-align: top; color: rgb(255, 255, 255); padding: 10px;" id="item_3"><h4 style="padding-left: 10px; padding-right: 10px; font-size: 20px;" id="item_7" editable="true">About me<br></h4><div style="padding: 10px;" id="item_8" editable="true">It is a long established fact that a reader will be distracted by the 
+readable content of a page when looking at its layout. The point of 
+using Lorem Ipsum is that it has a more-or-less normal distribution of 
+letters, as opposed to using 'Content here, content here', making it 
+look like readable English. Many desktop publishing packages and web 
+page editors now use Lorem Ipsum as their default model text, and a 
+search for 'lorem ipsum' will uncover many web sites still in their 
+infancy</div><div style="padding:10px;color: #FFFFFFFF;" id="item_9"><i class="bi bi-facebook" style="font-size: 30px; margin-left: 10px; margin-right: 10px;"></i><i class="bi bi-twitter" style="font-size: 30px; margin-left: 10px; margin-right: 10px;" id="item_10"></i><i class="bi bi-instagram" style="font-size: 30px; margin-left: 10px; margin-right: 10px;" id="item_11"></i></div></div>
+</div></section>
